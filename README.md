@@ -1,4 +1,4 @@
-# SIMPLE BNB -> ERC20 Token swap
+# SIMPLE BNB -> Single ERC20 Token swap
 
 _This project is a simple contract to sell ERC20 token on website, can be improved with chainlink oracles to get current market price but now its just an example._
 
